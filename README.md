@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 김재현입니다 👋
 
 <!--
 **kimjaehyeon0314/kimjaehyeon0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
